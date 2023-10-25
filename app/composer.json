@@ -1,0 +1,7 @@
+{
+    "require": {
+        "infinityfree/mofh-client": "^0.7.1",
+        "cloudflare/sdk": "^1.1",
+        "afosto/yaac": "^1.5"
+    }
+}
